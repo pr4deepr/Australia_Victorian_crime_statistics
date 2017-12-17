@@ -33,7 +33,7 @@ crime_zip.max()
 vmin = 0
 vmax = 24000
 
-with open('pyshp-demo.json') as f:
+with open('victoria.json') as f:
     data = json.load(f)
 
 postcodes=[]
