@@ -183,5 +183,10 @@ for gj in map(lambda gj: folium.GeoJson(gj), geojson):
     except KeyError:
         continue
 
-folium.LayerControl().add_to(oz)
+#folium.LayerControl().add_to(oz)
+
+colourmap=bcm.LinearColormap(['yellow','orange', 'red'],index=[1,1000,10000],vmin=0,vmax=24000)
+colourmap.caption='Average No. of Crimes (2012-2016)'
+oz.add_child(colourmap)
+oz
 oz.save('VIC_crimes1.html')
