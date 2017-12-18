@@ -8,3 +8,5 @@ Downloaded the shape file for the postcode boundaries of the state of Victoria f
 Converted it into json format using pyshp and also [this website](https://mygeodata.cloud/converter/shp-to-json)
 
 Download the html file to play around with the interactive map. It is made using folium. 
+
+View the [Jupyter notebook here](http://nbviewer.jupyter.org/github/pr4deepr/Australia_Victorian_crime_statistics/blob/master/Vic_Crimes.ipynb)
