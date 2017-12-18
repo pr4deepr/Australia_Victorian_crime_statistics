@@ -5,6 +5,10 @@ import numpy as np
 from matplotlib import colors, cm
 from matplotlib.colors import rgb2hex
 import branca.colormap as bcm
+import warnings
+
+
+warnings.simplefilter("ignore", UserWarning)
 
 #function for removing duplicates and preserving order
 def de_dup(seq): 
