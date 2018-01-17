@@ -1,7 +1,7 @@
 # Australia_Victorian_crime_statistics
 ## Interactive map for Victorian Crime Statistics in Australia (2012-2016)
 
-![Alt](/VIC_Crimes_2012_2016_by_postcode.jpg "Average no. of Crimes (2012-2016)")
+![Alt](/Vic_Crimes_2012_2016_by_postcode.gif "Average no. of Crimes (2012-2016)")
 
 You can view the interactive map by downloading the html file. It is made using folium. 
 
