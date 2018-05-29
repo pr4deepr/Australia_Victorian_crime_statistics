@@ -4,7 +4,6 @@
 ![Alt](https://github.com/pr4deepr/Australia_Victorian_crime_statistics/blob/master/Static%20map/VIC_Crimes_2012_2016_by_postcode.jpg)
 
 This is a static map showing the average number of crimes by each postcode using a colorscale. 
-The code can be found in the folder Static map.
 
 This inspired me to try an Interactive version.
 
