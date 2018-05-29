@@ -1,4 +1,13 @@
-# Australia_Victorian_crime_statistics
+# Victorian crime statistics by postcode
+## Static map
+
+![Alt](/Static map/VIC_Crimes_2012_2016_by_postcode.jpg "Average no. of Crimes (2012-2016)")
+
+This is a static map showing the crtotal number of crimes by each postcode using a colorscale. 
+The code can be found in the folder Static map.
+
+This inspired me to try an Interactive version.
+
 ## Interactive map for Victorian Crime Statistics in Australia (2012-2016)
 
 ![Alt](/Vic_Crimes_2012_2016_by_postcode.gif "Average no. of Crimes (2012-2016)")
