@@ -11,7 +11,7 @@ This inspired me to try an Interactive version.
 
 ![Alt](/Vic_Crimes_2012_2016_by_postcode.gif "Average no. of Crimes (2012-2016)")
 
-You can view the interactive map by downloading the html file. It is made using folium. 
+You can view the interactive map by downloading the [html file](/VIC_crimes1.html). It is made using folium. 
 
 Downloaded the shape file for the postcode boundaries of the state of Victoria from the [Australian DataVic website](https://www.data.vic.gov.au/data/dataset/postcode-boundaries-polygon-vicmap-admin)
 
