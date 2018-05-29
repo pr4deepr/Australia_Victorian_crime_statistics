@@ -12,7 +12,6 @@ This inspired me to try an Interactive version.
 ![Alt](/Vic_Crimes_2012_2016_by_postcode.gif "Average no. of Crimes (2012-2016)")
 
 You can view the interactive map by downloading the [html file](/VIC_crimes1.html). It is made using folium. 
-<a href="data:/VIC_crimes1.html,DATA" download="html">TITLE</a>
 Downloaded the shape file for the postcode boundaries of the state of Victoria from the [Australian DataVic website](https://www.data.vic.gov.au/data/dataset/postcode-boundaries-polygon-vicmap-admin)
 
 Converted it into json format using pyshp and also [this website](https://mygeodata.cloud/converter/shp-to-json)
