@@ -3,7 +3,7 @@
 
 ![Alt](/Static map/VIC_Crimes_2012_2016_by_postcode.jpg "Average no. of Crimes (2012-2016)")
 
-This is a static map showing the crtotal number of crimes by each postcode using a colorscale. 
+This is a static map showing the average number of crimes by each postcode using a colorscale. 
 The code can be found in the folder Static map.
 
 This inspired me to try an Interactive version.
